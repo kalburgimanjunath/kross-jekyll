@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 author: Manjunath Kalburgi
-image: https://avatars.githubusercontent.com/u/1643278?s=400&u=798c96f01e3ac2faafe6943c05486d3c691860af&v=4
+image: /https://avatars.githubusercontent.com/u/1643278?s=400&u=798c96f01e3ac2faafe6943c05486d3c691860af&v=4
 ---
 
 Experience in Physical Security Domain and enterprise software development , Clinical Trials,FMCG at Oracle, Honeywell R&D Centre,3M India, Bangalore. Lead Frontend develpment for group of Honeywell ACS Software CoE,Oracle,3M India, with responsibility to drive software revenue growth and market differentiation by realizing cutting edge technologies into products and solutions.
