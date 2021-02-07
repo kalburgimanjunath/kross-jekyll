@@ -1,18 +1,15 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
-image: assets/images/about/author.jpg
-signature: assets/images/about/signature.png
+author: Manjunath Kalburgi
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+Experience in Physical Security Domain and enterprise software development , Clinical Trials,FMCG at Oracle, Honeywell R&D Centre,3M India, Bangalore. Lead Frontend develpment for group of Honeywell ACS Software CoE,Oracle,3M India, with responsibility to drive software revenue growth and market differentiation by realizing cutting edge technologies into products and solutions.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+Video domain expertise as design for key software applications for video surveillance product lines in a true global engineering development environment.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Leading design, development & mentoring focus for a multi-disciplinary team. Trained in highly disciplined software development process aligned to CMMi, Six Sigma & Honeywell Operating System (HOS) concepts.
+
+Recipient of 3 times Star Technical Award in HTS Bangalore
+
+Specialties: Website development, Human Factor & Product Visualization, Video Management Systems, Standard Definitions, Cloud Technology, User Experience. 
